@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    border: 1px solid red;
+    background-color: skyblue;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.child1{
+    border: 1px  dotted green;
+    color: aliceblue;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
+.child2{
+    border: 1px  dotted green;
+    background-color: maroon;
+    height: 200px;
+    width: 200px;       
+}
+.child3{
+    border: 1px  dotted green;
+    background-color: gainsboro;
+    height: 200px;
+    width: 200px;
+}
+.child4{
+    border: 1px  dotted green;
+    background-color: cadetblue;
+    height: 200px;
+    width: 200px;
+}
