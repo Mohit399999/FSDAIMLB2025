@@ -1,2 +1,2 @@
-# FSDAIMLB2025
+# FSDAIMLB
 Welcome to FSD Session
